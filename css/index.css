@@ -1,6 +1,6 @@
 /* CSS Variables */
 body {
-  --background-primary: #d7c9f1;
+  --background-primary: #efffe8;
   --font-color-primary: #333;
   --elevation-background: #f3f3f3;
   --link-color: #006eb8;
@@ -111,7 +111,9 @@ input[type='number'] {
 
 /* global classes */
 .introtoswaraj{
-  background-color: rgb(187, 236, 238);
+  background-color: #ffe8e8;
+  padding: 0px 10px;
+  font-color: #333;
 }
 .shadow {
   box-shadow: 12px 12px 24px 0 rgba(0, 0, 0, 0.2);
