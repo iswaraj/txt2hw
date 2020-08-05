@@ -111,8 +111,7 @@ input[type='number'] {
 
 /* global classes */
 .introtoswaraj{
-  
-  background: url('../images/PicsArt_04-04-02.32.21.jpg') no-repeat;
+  background-color: rgb(187, 236, 238);
 }
 .shadow {
   box-shadow: 12px 12px 24px 0 rgba(0, 0, 0, 0.2);
