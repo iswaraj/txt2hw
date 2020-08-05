@@ -1,6 +1,6 @@
 /* CSS Variables */
 body {
-  --background-primary: #b8d8f2;
+  --background-primary: #d7c9f1;
   --font-color-primary: #333;
   --elevation-background: #f3f3f3;
   --link-color: #006eb8;
@@ -9,12 +9,12 @@ body {
   --primary-color: #1a73e8;
   --ink-color: #000f55;
   --label-color: #333;
-  --field-borders: #e0e0e0;
-  --primary-button-bg: #949184;
-  --primary-button-color: #e3ffa3;
+  --field-borders: #317070;
+  --primary-button-bg: #9dd379;
+  --primary-button-color: #58ad9f;
 }
 body.dark {
-  --background-primary: #121212;
+  --background-primary: #030303;
   --font-color-primary: #ccc;
   --elevation-background: #1d1d1d;
   --link-color: #09f;
@@ -282,8 +282,8 @@ body.dark .github-corner {
     padding: 100px 5px;
   }
   h1 {
-    margin-top: 20px;
-    font-size: 3rem;
+    margin-top: 10px;
+    font-size: 1rem;
   }
   .padding-around {
     padding-left: 5px;
@@ -293,7 +293,7 @@ body.dark .github-corner {
     flex-direction: column;
   }
   .customization-col {
-    padding: 100px 5px !important;
+    padding: 50px 5px !important;
   }
   .page-container {
     width: 100%;
@@ -308,22 +308,6 @@ body.dark .github-corner {
   .output img {
     width: 200px;
     margin: 0px 10px;
-  }
-
-  .project-contributors {
-    width: 100%;
-    overflow-x: scroll;
-    overflow-y: hidden;
-    white-space: nowrap;
-  }
-
-  .contributor-profile {
-    width: 7.5em;
-    height: 150px;
-  }
-
-  .contributor-username {
-    font-size: 9pt;
   }
 }
 
