@@ -11,7 +11,7 @@ body {
   --label-color: #333;
   --field-borders: #317070;
   --primary-button-bg: #9dd379;
-  --primary-button-color: #58ad9f;
+  --primary-button-color: #1e3330;
 }
 body.dark {
   --background-primary: #030303;
@@ -56,7 +56,7 @@ button {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 
 label {
@@ -110,6 +110,9 @@ input[type='number'] {
 }
 
 /* global classes */
+.introtoswaraj{
+  background-color: cadetblue;
+}
 
 .shadow {
   box-shadow: 12px 12px 24px 0 rgba(0, 0, 0, 0.2);
