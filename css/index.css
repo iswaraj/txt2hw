@@ -10,8 +10,8 @@ body {
   --ink-color: #000f55;
   --label-color: #333;
   --field-borders: #e0e0e0;
-  --primary-button-bg: #1d1d1d;
-  --primary-button-color: #eee;
+  --primary-button-bg: #949184;
+  --primary-button-color: #e3ffa3;
 }
 body.dark {
   --background-primary: #121212;
