@@ -111,9 +111,9 @@ input[type='number'] {
 
 /* global classes */
 .introtoswaraj{
-  background-color: rgb(187, 236, 238);
+  
+  background: url('../images/PicsArt_04-04-02.32.21.jpg') no-repeat;
 }
-
 .shadow {
   box-shadow: 12px 12px 24px 0 rgba(0, 0, 0, 0.2);
 }
@@ -286,6 +286,9 @@ body.dark .github-corner {
   }
   h1 {
     margin-top: 10px;
+    font-size: 1.5rem;
+  }
+  h2 {
     font-size: 1rem;
   }
   .padding-around {
